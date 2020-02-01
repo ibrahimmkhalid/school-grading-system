@@ -1,0 +1,9 @@
+4
+Bunny, Bugs
+Math 90.1 86.2 80.3 99.5 96.7 93.2
+Schmuckatelli, Joe
+History 88 75 90
+Crack Corn, Jimmy
+Math 44 58 23 59 77 68
+Dipwart, Marvin
+English 95 76 72 88
