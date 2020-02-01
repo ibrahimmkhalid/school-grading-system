@@ -1,2 +1,2 @@
-# school-grading-system
-School Grading System in C++
+___Disclaimer___: Those that view this may not use this in any coursework in NUCES, Lahore. 
+In such cases the sole responsibility will fall on the student who has copied the work.
